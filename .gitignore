@@ -163,3 +163,4 @@ cython_debug/
 logs/.DS_Store
 logs/
 *.egg-info/
+.DS_Store
