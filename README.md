@@ -104,8 +104,8 @@ Overall, the reproduction supports the same intuition emphasized by REVOLVE: com
 
 A major engineering contribution of this project is the transition from API-oriented experimentation to a **local Ollama-based workflow**. In this setup, locally deployed models are used for both:
 
-- generating optimization feedback, and
-- performing downstream reasoning. fileciteturn1file12
+- generating optimization feedback
+- performing downstream reasoning
 
 Compared with cloud-only pipelines, this design offers several practical advantages:
 
