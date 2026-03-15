@@ -252,5 +252,4 @@ This project is not only a conceptual summary of REVOLVE, but a concrete enginee
 
 ## References
 
-1. Peiyan Zhang, Haibo Jin, Leyang Hu, Xinnuo Li, Liying Kang, Man Luo, Yangqiu Song, and Haohan Wang. **REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**. arXiv, 2025. 
-2. A reference implementation and project structure inspired by the uploaded PromptTune markdown draft. 
+Peiyan Zhang, Haibo Jin, Leyang Hu, Xinnuo Li, Liying Kang, Man Luo, Yangqiu Song, and Haohan Wang. **REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**. arXiv, 2025. 
